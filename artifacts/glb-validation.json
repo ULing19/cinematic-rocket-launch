@@ -1,0 +1,28 @@
+[
+  {
+    "file": "ARES-01-launch-complex.glb",
+    "bytes": 6333704,
+    "meshes": 432,
+    "materials": 15,
+    "textures": 7,
+    "normalMappedMaterials": 2,
+    "size": [
+      1800,
+      68.22999999523162,
+      1800
+    ]
+  },
+  {
+    "file": "ARES-01-rocket.glb",
+    "bytes": 3544064,
+    "meshes": 129,
+    "materials": 10,
+    "textures": 6,
+    "normalMappedMaterials": 2,
+    "size": [
+      6.011329286190097,
+      38.77749998897314,
+      6.011329286190099
+    ]
+  }
+]

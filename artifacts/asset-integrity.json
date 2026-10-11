@@ -1,0 +1,34 @@
+[
+  {
+    "file": "ARES-01-launch-complex.glb",
+    "bytes": 6333704,
+    "nodes": 457,
+    "meshes": 432,
+    "materials": 14,
+    "embeddedImages": 7,
+    "materialsWithNormals": 2,
+    "extensions": [
+      "KHR_materials_anisotropy",
+      "EXT_mesh_gpu_instancing",
+      "KHR_materials_emissive_strength",
+      "KHR_materials_unlit",
+      "KHR_texture_transform",
+      "EXT_materials_bump"
+    ]
+  },
+  {
+    "file": "ARES-01-rocket.glb",
+    "bytes": 3544064,
+    "nodes": 142,
+    "meshes": 129,
+    "materials": 9,
+    "embeddedImages": 6,
+    "materialsWithNormals": 2,
+    "extensions": [
+      "KHR_materials_anisotropy",
+      "EXT_mesh_gpu_instancing",
+      "KHR_materials_emissive_strength",
+      "KHR_materials_unlit"
+    ]
+  }
+]

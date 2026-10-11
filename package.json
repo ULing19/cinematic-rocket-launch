@@ -1,0 +1,25 @@
+{
+  "name": "cinematic-rocket-launch",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Cinematic Three.js launch studio with PBR assets, launch animation and editable GLB export.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "build": "npm run typecheck && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "verify:assets": "node scripts/verify-assets.mjs"
+  },
+  "dependencies": {
+    "lil-gui": "0.21.0",
+    "postprocessing": "6.39.5",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/three": "0.186.0",
+    "playwright": "^1.64.0",
+    "typescript": "7.0.2",
+    "vite": "8.3.4"
+  }
+}

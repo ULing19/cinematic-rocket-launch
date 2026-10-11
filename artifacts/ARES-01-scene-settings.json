@@ -1,0 +1,23 @@
+{
+  "schema": "orbital-scene-v1",
+  "settings": {
+    "exposure": 1.12,
+    "atmosphere": 0.45,
+    "thrust": 0.65,
+    "bloom": true,
+    "stars": true,
+    "time": "twilight"
+  },
+  "camera": {
+    "position": [
+      60.99999999999999,
+      29.999999999999993,
+      78
+    ],
+    "target": [
+      0,
+      20,
+      0
+    ]
+  }
+}

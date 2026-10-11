@@ -1,0 +1,170 @@
+{
+  "checks": [
+    {
+      "name": "Assets navigation",
+      "pass": true
+    },
+    {
+      "name": "Engine preset",
+      "pass": true
+    },
+    {
+      "name": "Night preset selected",
+      "pass": true
+    },
+    {
+      "name": "rocket hide",
+      "pass": true
+    },
+    {
+      "name": "rocket restore",
+      "pass": true
+    },
+    {
+      "name": "pad hide",
+      "pass": true
+    },
+    {
+      "name": "pad restore",
+      "pass": true
+    },
+    {
+      "name": "tower hide",
+      "pass": true
+    },
+    {
+      "name": "tower restore",
+      "pass": true
+    },
+    {
+      "name": "stars hide",
+      "pass": true
+    },
+    {
+      "name": "stars restore",
+      "pass": true
+    },
+    {
+      "name": "effects hide",
+      "pass": true
+    },
+    {
+      "name": "effects restore",
+      "pass": true
+    },
+    {
+      "name": "Bloom off",
+      "pass": true
+    },
+    {
+      "name": "Exposure upper bound",
+      "pass": true
+    },
+    {
+      "name": "Exposure keyboard",
+      "pass": true
+    },
+    {
+      "name": "Settings persistence",
+      "pass": true
+    },
+    {
+      "name": "Haze range",
+      "pass": true
+    },
+    {
+      "name": "Thrust zero",
+      "pass": true
+    },
+    {
+      "name": "Thrust full",
+      "pass": true
+    },
+    {
+      "name": "Animation advances",
+      "pass": true
+    },
+    {
+      "name": "Scrub ascent",
+      "pass": true
+    },
+    {
+      "name": "Auto orbit on",
+      "pass": true
+    },
+    {
+      "name": "Auto orbit off",
+      "pass": true
+    },
+    {
+      "name": "Metal inspector",
+      "pass": true
+    },
+    {
+      "name": "Heat inspector",
+      "pass": true
+    },
+    {
+      "name": "Engine inspector",
+      "pass": true
+    },
+    {
+      "name": "Help dialog",
+      "pass": true
+    },
+    {
+      "name": "Fullscreen enter",
+      "pass": true
+    },
+    {
+      "name": "Fullscreen exit",
+      "pass": true
+    },
+    {
+      "name": "Ascent tracking",
+      "pass": true
+    },
+    {
+      "name": "Sequence ends",
+      "pass": true
+    },
+    {
+      "name": "Replay restarts from zero",
+      "pass": true
+    },
+    {
+      "name": "Mobile night preset",
+      "pass": true
+    },
+    {
+      "name": "Mobile assets panel",
+      "pass": true
+    },
+    {
+      "name": "Mobile export dialog",
+      "pass": true
+    },
+    {
+      "name": "Production without external network",
+      "pass": true
+    },
+    {
+      "name": "Production viewport fits",
+      "pass": true
+    },
+    {
+      "name": "Camera position resets precisely",
+      "pass": true
+    },
+    {
+      "name": "Camera target resets precisely",
+      "pass": true
+    },
+    {
+      "name": "Production camera reset stable",
+      "pass": true
+    }
+  ],
+  "productionErrors": [],
+  "externalRequests": []
+}
