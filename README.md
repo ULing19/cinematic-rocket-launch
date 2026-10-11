@@ -2,6 +2,16 @@
 
 可交互的 Three.js 火箭发射场景。包含 ARES–01 七引擎运载火箭、发射平台、服务塔架、地面设施、程序化星空、暮光大气、烟雾和尾焰。界面为中文，适配桌面与手机。
 
+## 预览与生成说明
+
+- 在线预览：[https://uling19.github.io/cinematic-rocket-launch/](https://uling19.github.io/cinematic-rocket-launch/)
+- GitHub 仓库：[https://github.com/ULing19/cinematic-rocket-launch](https://github.com/ULing19/cinematic-rocket-launch)
+- 生成说明：这是 **Ultrafast 下 6.1sol、极高推理强度的一句话直出** 结果。
+
+## 本对话最早提示词
+
+> 使用Three.js构建一个具有电影感、照片级写实效果和丰富纹理的3D火箭发射场景，包含细节丰富的火箭主体、发射台、背景星空与大气效果，材质需包含金属拉丝、烧蚀涂层、发光推进器，场景需支持360°视角查看，并输出可编辑的3D资产。
+
 ## 启动
 
 需要 Node.js 20.19+ 或 22.12+，推荐 Node.js 24 LTS。
